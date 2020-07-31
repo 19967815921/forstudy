@@ -20,7 +20,7 @@ public class ActorRegistService {
     private static final Logger logger = LoggerFactory.getLogger(ActorRegistService.class);
 
     public static void main(String[] args) {
-        logger.info("hello {}","world");
+        logger.info("hello {}","world！！！！");
     }
     /**
      * 增加演员信息
